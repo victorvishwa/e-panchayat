@@ -99,10 +99,10 @@ Provides a detailed explanation of how payment transactions will be conducted us
 
 ## Authors
 
-* **Hemanth** - *Comp Sci Student* - [Hemanth](https://github.com/HEMANTH123SR) - *Building Frontend and Backend Development*
-* **Anush** - *Comp Sci. Student* - [Anush](https://github.com/Anush-Noob) - *Building Frontend and presentation*
-* **Kundan** - *Comp Sci. Student* - [Kundan](https://github.com/Kundan730) - *Backend Development and Blockchain Integration*
-* **Janavika** - *Comp Sci. Student* - [Janavika](https://github.com/Janavikas) - *Frontend, Building Datasets and presentation*
+* **Vishwa** - *Comp Sci Student*  - *Building Frontend and Backend Development*
+* **Ashwin** - *Comp Sci. Student* - *Building Frontend and Backend Development*
+* **Shishir** - *Comp Sci. Student* -*Frontend*
+* **Madhav** - *Comp Sci. Student* - *Frontend*
 
 ## Acknowledgements
 
