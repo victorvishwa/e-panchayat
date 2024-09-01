@@ -10,40 +10,22 @@ The concept of e-Panchayat holds great promise for rural masses across the count
 
 ## Table Of Contents
 
-* [Problem Statement](#Descrription)
-* [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
+* [Introduction](#Descrription)
+* [Problem Statement](#built-with)
+* [Objectives of the e-Panchayat Mission](#getting-started)
+* [Proposed Solution: Online Portal/Application for Grievance Redressal](#usage)
+* [Comprehensive Scope of the e-Panchayat Project](#roadmap)
+* [Technological Tools and Infrastructure](#contributing)
+* [Implementation Strategy](#license)
+* [Expected Outcomes](#authors)
+* [Blockchain Integration for Secure Payment Transactions](#acknowledgements)
+* [Conclusion:](#)
 
-## Descrription
+## Introduction
+
+This section sets the context for the project by explaining the concept of e-Panchayat and its relevance in the modern era. It highlights the importance of digitizing PRIs to make them more efficient and transparent, ultimately leading to better governance in rural areas.
 
 ![WhatsApp Image 2024-09-01 at 20 21 43_d799eec3](https://github.com/user-attachments/assets/c564e366-e1c6-4bb0-ae59-8513e93f2a27)
-
-BloockToons is a blockchain-based platform where users can discover and read the best webtoons from around the world.
-
-Blockchain Integration: By leveraging blockchain technology, BloockToons ensures that creators receive fair compensation for their work while allowing readers to enjoy unique and high-quality webtoons.
-
-Fractional Ownership: The platform introduces fractional ownership of exclusive webtoon series, enabling readers to collectively own a piece of their favorite series. This not only democratizes access to premium content but also allows fans to invest in the future of their favorite stories.
-
-Why Blockchain: BloockToons uses blockchain to enhance transparency and security in content distribution. This ensures that creators are rewarded fairly, and readers have a stake in the content they love.
-
-Problem:-
-
-1. Censorship and Content Control: Centralized platforms often impose content restrictions based on various regional or legal guidelines, limiting creative freedom and access to diverse manga content.
-2. Revenue Sharing: Creators are often subject to unfavorable revenue-sharing models, with significant portions of earnings going to intermediaries like publishers and platforms.
-3. Access and Ownership: Readers do not have ownership of the content they purchase, and access to their library can be revoked at any time due to platform policies or failures.
-4. Single Point of Failure: Centralized platforms can be taken down or suffer outages, leading to a complete loss of access to manga content for readers.
-
-Solution:-
-
-* BlockToons is a decentralized platform leveraging Diamante blockchain technology to provide a fair, transparent, and censorship-resistant environment for manga distribution. The platform operates as a decentralized marketplace where creators can publish, and readers can purchase or access manga directly, without intermediaries.
 
 ## Built With
 
