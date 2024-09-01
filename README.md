@@ -39,11 +39,19 @@ This subsection highlights the gap between urban and rural areas in terms of dig
 * [IPFS](https://ipfs.io/)
 * [Diamante Blockchain](https://diamanteblockchain.com/)
 
-## Problem Statement
+# Problem Statement
 
-This section identifies the key issues faced by Panchayats, such as inefficiencies in public service delivery, lack of transparency, and accountability. It emphasizes the need for a digital solution to address these challenges.
+## Challenges Faced by Panchayats in the Current System:
 
-First Install Some Packages before starting
+This section identifies and explains the challenges PRIs currently face, such as bureaucratic inefficiencies, delays in service delivery, lack of transparency, and issues in governance. It sets up the context for why a digital solution is necessary.
+
+## Issues in Public Service Delivery and Grievance Redressal:
+It focuses on the specific problems related to the delivery of public services, such as delays, lack of accountability, and the difficulties citizens face in having their grievances addressed.
+
+## Lack of Efficiency, Transparency, and Accountability in PRIs:
+
+This subsection delves into the systemic issues within PRIs, particularly the lack of processes and systems to ensure efficient operations, transparency in decision-making, and accountability to the public.
+
 
 ### Prerequisites
 
