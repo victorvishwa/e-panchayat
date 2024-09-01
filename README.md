@@ -10,7 +10,7 @@ The concept of e-Panchayat holds great promise for rural masses across the count
 
 ## Table Of Contents
 
-* [About the Project](#Descrription)
+* [Problem Statement](#Descrription)
 * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
