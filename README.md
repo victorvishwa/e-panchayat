@@ -3,15 +3,12 @@
 ![WhatsApp Image 2024-09-01 at 20 21 43_d799eec3](https://github.com/user-attachments/assets/c564e366-e1c6-4bb0-ae59-8513e93f2a27)
 
 
-Problem Statement:
-
-The concept of e-Panchayat holds great promise for rural masses across the country as it aims to transform Panchayati Raj Institutions (PRIs) into symbols of modernity, transparency, and efficiency
 
 
 ## Table Of Contents
 
-* [Introduction](#Descrription)
-* [Problem Statement](#built-with)
+* [Introduction](#Introduction)
+* [Problem Statement](#Problem-Statement)
 * [Objectives of the e-Panchayat Mission](#getting-started)
 * [Proposed Solution: Online Portal/Application for Grievance Redressal](#usage)
 * [Comprehensive Scope of the e-Panchayat Project](#roadmap)
@@ -25,7 +22,6 @@ The concept of e-Panchayat holds great promise for rural masses across the count
 
 This section sets the context for the project by explaining the concept of e-Panchayat and its relevance in the modern era. It highlights the importance of digitizing PRIs to make them more efficient and transparent, ultimately leading to better governance in rural areas.
 
-![WhatsApp Image 2024-09-01 at 20 21 43_d799eec3](https://github.com/user-attachments/assets/c564e366-e1c6-4bb0-ae59-8513e93f2a27)
 
 ## Built With
 
@@ -36,7 +32,9 @@ This section sets the context for the project by explaining the concept of e-Pan
 * [IPFS](https://ipfs.io/)
 * [Diamante Blockchain](https://diamanteblockchain.com/)
 
-## Getting Started
+## Problem Statement
+
+This section identifies the key issues faced by Panchayats, such as inefficiencies in public service delivery, lack of transparency, and accountability. It emphasizes the need for a digital solution to address these challenges.
 
 First Install Some Packages before starting
 
