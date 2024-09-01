@@ -26,14 +26,7 @@ It explains why it is crucial to modernize PRIs to meet the growing needs of rur
  ## The Need for Digital Transformation in Rural Areas:
 This subsection highlights the gap between urban and rural areas in terms of digital infrastructure and access to technology. It makes a case for why rural areas, especially at the Panchayat level, need digital transformation to empower local communities and improve overall quality of life.
 
-## Built With
 
-* [NEXT JS](https://nextjs.org/)
-* [Tailwind CSS](https://tailwindcss.com/)
-* [Typescript](https://www.typescriptlang.org/)
-* [DiamCircle](https://diamcircle.com/)
-* [IPFS](https://ipfs.io/)
-* [Diamante Blockchain](https://diamanteblockchain.com/)
 
 # Problem Statement
 
