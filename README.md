@@ -53,9 +53,14 @@ It focuses on the specific problems related to the delivery of public services, 
 This subsection delves into the systemic issues within PRIs, particularly the lack of processes and systems to ensure efficient operations, transparency in decision-making, and accountability to the public.
 
 
-### Prerequisites
+### Objectives of the e-Panchayat Mission
 
-Install Packages
+Enabling Panchayats through Information and Communication Technology (ICT):
+This section outlines the mission to empower PRIs by integrating ICT tools and systems. It emphasizes how ICT can streamline operations, improve communication, and enhance service delivery.
+Promoting Transparency and Accountability in Local Governance:
+It explains the objective of making PRIs more transparent and accountable through digital tools, ensuring that citizens can easily access information and hold their local governments accountable.
+Enhancing Efficiency in Service Delivery:
+This subsection highlights the goal of improving the efficiency of service delivery at the Panchayat level, reducing delays, and ensuring that services are provided in a timely and effective manner.
 
 ### Installation
 
