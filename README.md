@@ -5,35 +5,12 @@
 
 Problem Statement:
 
-The concept of e-Panchayat holds great promise for rural masses across the country as it aims to transform Panchayati Raj Institutions (PRIs) into symbols of modernity, transparency, and efficiency.
-<br/>
-<p align="center">
-  <a href="https://github.com/HEMANTH123SR/blocktoons">
-    <img src="https://i.ibb.co/7jmyrpT/inifinity.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">BlockToons - Diamante Devhub Hackathon</h3>
-
-  <p align="center">
-     Discover and read the best webtoons from around the world on the blockchain. 
-    <br/>
-    <br/>
-    <a href="https://github.com/HEMANTH123SR/blocktoons"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/HEMANTH123SR/blocktoons">View Demo</a>
-    .
-    <a href="https://github.com/HEMANTH123SR/blocktoons/issues">Report Bug</a>
-    .
-    <a href="https://github.com/HEMANTH123SR/blocktoons/issues">Request Feature</a>
-  </p>
-</p>
-
+The concept of e-Panchayat holds great promise for rural masses across the country as it aims to transform Panchayati Raj Institutions (PRIs) into symbols of modernity, transparency, and efficiency
 
 
 ## Table Of Contents
 
-* [About the Project](#about-the-project)
+* [About the Project](#Descrription)
 * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
@@ -45,9 +22,9 @@ The concept of e-Panchayat holds great promise for rural masses across the count
 * [Authors](#authors)
 * [Acknowledgements](#acknowledgements)
 
-## About The Project
+## Descrription
 
-![Screen Shot](./public/images/Screenshot%202024-09-01%20153058.png)
+![WhatsApp Image 2024-09-01 at 20 21 43_d799eec3](https://github.com/user-attachments/assets/c564e366-e1c6-4bb0-ae59-8513e93f2a27)
 
 BloockToons is a blockchain-based platform where users can discover and read the best webtoons from around the world.
 
