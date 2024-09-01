@@ -10,7 +10,7 @@
 * [Introduction](#Introduction)
 * [Problem Statement](#Problem-Statement)
 * [Objectives of the e-Panchayat Mission](#Objectives-of-the-e-Panchayat-Mission)
-* [Proposed Solution: Online Portal/Application for Grievance Redressal](#Proposed-Solution:-Online-Portal/Application-for-Grievance-Redressal)
+* [Proposed Solution: Online Portal/Application for Grievance Redressal](#Proposed-Solution-Online-Portal/Application-for-Grievance-Redressal)
 * [Blockchain Integration for Secure Payment Transactions](#Blockchain-Integration-for-Secure-Payment-Transactions)
 * [Conclusion:](#)
 
@@ -63,7 +63,7 @@ It explains the objective of making PRIs more transparent and accountable throug
 
 This subsection highlights the goal of improving the efficiency of service delivery at the Panchayat level, reducing delays, and ensuring that services are provided in a timely and effective manner.
 
-# Proposed Solution: Online Portal/Application for Grievance Redressal:
+# Proposed Solution Online Portal/Application for Grievance Redressal:
 
 ## Overview of the Online Portal/Application:
 This section provides an overview of the proposed digital solution—a web portal or mobile application designed to enable citizens to file grievances online. It serves as a one-stop platform for various interactions between the public and PRIs.
