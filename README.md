@@ -67,15 +67,24 @@ It explains the objective of making PRIs more transparent and accountable throug
 
 This subsection highlights the goal of improving the efficiency of service delivery at the Panchayat level, reducing delays, and ensuring that services are provided in a timely and effective manner.
 
-### Installation
+# Proposed Solution: Online Portal/Application for Grievance Redressal:
 
-First, run the development server:
+## Overview of the Online Portal/Application:
+This section provides an overview of the proposed digital solution—a web portal or mobile application designed to enable citizens to file grievances online. It serves as a one-stop platform for various interactions between the public and PRIs.
 
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+## Features and Functionalities:
+  ### Grievance Filing System:
+     Details how citizens can file grievances through the portal, the types of issues they can report, and how the system will categorize and manage these grievances.
+  ### Status Tracking and Notifications:
+     Explains the process for tracking the status of filed grievances and how the system will notify users about updates, ensuring transparency in how issues are 
+     resolved.
+  ### Integration with Other Government Services:
+     Discusses how the portal will integrate with other governmental services and databases to provide a seamless experience for users, allowing them to access 
+     multiple services from a single platform.
+## Benefits to Village People:
+It highlights the direct benefits of the portal to rural citizens, including ease of access to services, reduced travel to government offices, faster resolution of issues, and overall improved interaction with their local government.
+
+
 
 
 Open http://localhost:3000 with your browser to see the result.
