@@ -97,15 +97,15 @@ Outlines the advantages of using blockchain, such as increased transparency in f
 Provides a detailed explanation of how payment transactions will be conducted using MetaMask, from initiating a payment to confirmation and receipt generation. It also discusses how the system ensures that transactions are recorded and verified on the blockchain.
 
 
+## Built With
+* [HTML CSS](https://html.com/)
+* [PhP](https://www.php.org/)
+* [MetaMask](https://MetaMask.com/)
+
+
 ## Authors
 
 * **Vishwa** - *Comp Sci Student*  - *Building Frontend and Backend Development*
 * **Ashwin** - *Comp Sci. Student* - *Building Frontend and Backend Development*
 * **Shishir** - *Comp Sci. Student* -*Frontend*
 * **Madhav** - *Comp Sci. Student* - *Frontend*
-
-## Acknowledgements
-
-* []()
-* []()
-* []()
