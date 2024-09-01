@@ -10,7 +10,7 @@
 * [Introduction](#Introduction)
 * [Problem Statement](#Problem-Statement)
 * [Objectives of the e-Panchayat Mission](#Objectives-of-the-e-Panchayat-Mission)
-* [Proposed Solution: Online Portal/Application for Grievance Redressal](#Proposed-Solution:-Online-Portal/Application-for-Grievance-Redressal])
+* [Proposed Solution: Online Portal/Application for Grievance Redressal](#Proposed-Solution:-Online-Portal/Application-for-Grievance-Redressal)
 * [Blockchain Integration for Secure Payment Transactions](#Blockchain-Integration-for-Secure-Payment-Transactions)
 * [Conclusion:](#)
 
